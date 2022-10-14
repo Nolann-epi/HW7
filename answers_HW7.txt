@@ -1,4 +1,4 @@
-9)
 
+3)
 Github: https://github.com/Nolann-epi/HW7
-Netlify: 
+Netlify: https://benevolent-sprite-9e3811.netlify.app/
